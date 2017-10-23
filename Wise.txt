@@ -1,1 +1,2 @@
 We should be wise
+ - Learn from Others
