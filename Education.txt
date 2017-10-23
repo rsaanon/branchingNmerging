@@ -1,1 +1,3 @@
 We should all educate ourselves
+ - School
+ - Hands On
